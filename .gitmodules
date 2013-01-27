@@ -3,4 +3,4 @@
 	url = git@github.com:IL2HorusTeam/desktop-util.git
 [submodule "server-emulator"]
 	path = server-emulator
-	url = git@github.com:IL2HorusTeam/server-emulator.git
+	url = git@github.com:IL2HorusTeam/desktop-server-emulator.git
