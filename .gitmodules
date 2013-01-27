@@ -4,3 +4,6 @@
 [submodule "server-emulator"]
 	path = server-emulator
 	url = git@github.com:IL2HorusTeam/desktop-server-emulator.git
+[submodule "device-link"]
+	path = device-link
+	url = git@github.com:IL2HorusTeam/desktop-device-link.git
