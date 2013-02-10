@@ -7,3 +7,6 @@
 [submodule "device-link"]
 	path = device-link
 	url = git@github.com:IL2HorusTeam/desktop-device-link.git
+[submodule "logger"]
+	path = logger
+	url = git@github.com:IL2HorusTeam/desktop-logger.git
