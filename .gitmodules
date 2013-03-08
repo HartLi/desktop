@@ -10,3 +10,6 @@
 [submodule "logger"]
 	path = logger
 	url = git@github.com:IL2HorusTeam/desktop-logger.git
+[submodule "heightmap-creator"]
+	path = heightmap-creator
+	url = git@github.com:IL2HorusTeam/desktop-heightmap-creator.git
